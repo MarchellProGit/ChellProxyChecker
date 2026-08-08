@@ -53,6 +53,15 @@ Built with a custom dark-mode desktop GUI and encrypted communication protocols,
 
 ---
 
+
+## Key Features
+
+- **[ ✦ ] Multi-Protocol Validation**: Concurrent testing of HTTP, HTTPS, SOCKS4, and SOCKS5 proxies.
+- **[ ✦ ] Latency & Anonymity Scoring**: Real-time ping measurement and anonymity level detection (Transparent/Anonymous/Elite).
+- **[ ✦ ] High-Concurrency Engine**: ThreadPoolExecutor supporting thousands of parallel connection tests.
+- **[ ✦ ] Geolocation Mapping**: Automatic IP-to-Country resolution and ISP identification.
+
+---
 ## System Architecture
 
 ```
